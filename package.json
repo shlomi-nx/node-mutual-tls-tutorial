@@ -1,0 +1,12 @@
+{
+  "name": "mtls-tutorial",
+  "version": "1.0.0",
+  "description": "mutual-tls tutorial for node",
+  "main": "server.js",
+  "author": "Shlomi.v",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "tls": "0.0.1"
+  }
+}
